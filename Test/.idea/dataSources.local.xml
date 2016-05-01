@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - weibo@localhost" uuid="8d939ff4-e8f6-48f8-a56e-078c012207ff">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>weibo.*</schema-pattern>
+      <default-schemas>weibo.*</default-schemas>
+    </data-source>
+  </component>
+</project>
